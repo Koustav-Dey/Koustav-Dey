@@ -1,4 +1,4 @@
-### Hey there, I am Koustav 👋
+### Hey there, I am Koustav 😉
 
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Koustav-Dey)
