@@ -1,4 +1,10 @@
-### Hey there, I am 🅺🅾🆄🆂🆃🅰🆅 😉
+<h1 align='center'>
+  Hey there, I am 🅺🅾🆄🆂🆃🅰🆅 😉
+</h1>
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:koustav1998dey@gmail.com'>koustav1998dey@gmail.com</a>
+</p>
 
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Koustav-Dey)
