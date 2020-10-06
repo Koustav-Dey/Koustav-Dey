@@ -1,8 +1,7 @@
 ### Hey there, I am Koustav 👋
 
 ---
-
-[![HitCount](http://hits.dwyl.com/Koustav-Dey/Koustav_me.svg)](http://hits.dwyl.com/Koustav-Dey/Koustav_me)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Koustav-Dey)
 
 <!--
 **Koustav-Dey/Koustav-Dey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
