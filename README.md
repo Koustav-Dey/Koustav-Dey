@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:koustav1998dey@gmail.com'>koustav1998dey@gmail.com</a>
+  📫 How to Reach Me : <a href='mailto:koustav1998dey@gmail.com'>koustav1998dey@gmail.com</a>
 </p>
 
 [![HitCount](http://hits.dwyl.com/Koustav-Dey/Koustav-Dey.svg)](http://hits.dwyl.com/Koustav-Dey/Koustav-Dey)
