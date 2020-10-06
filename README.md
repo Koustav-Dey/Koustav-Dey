@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there, I am Koustav 👋
+
+[![HitCount](http://hits.dwyl.com/Koustav-Dey/Koustav_me.svg)](http://hits.dwyl.com/Koustav-Dey/Koustav_me)
 
 <!--
 **Koustav-Dey/Koustav-Dey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###
+
+I'm an enthusiastic Developer who loves to contribute to the Opensource Community. I am Always trying to grow and learn somthhing new. I lose track of time when i am playing video games, studing new languages
