@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 ###
 
-I'm an enthusiastic Developer who loves to contribute to the Opensource Community. I am Always trying to grow and learn somthhing new. I lose track of time when i am playing video games, studing new languages
+I'm an Enthusiastic Developer who loves to contribute to the Opensource Community. I am Always trying to grow and learn somthhing new. I lose track of time when i am playing video games, studing new languages
