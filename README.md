@@ -1,15 +1,16 @@
 <h1 align='center'> 
   Hey There, I'm 🅺🅾🆄🆂🆃🅰🆅 😉
 </h1>
+<p align='center'>
+  📫 How to Reach Me : <a href='mailto:koustav1998dey@gmail.com'>koustav1998dey@gmail.com</a>
+</p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="320" />
 
 
 [![HitCount](http://hits.dwyl.com/Koustav-Dey/Koustav-Dey.svg)](http://hits.dwyl.com/Koustav-Dey/Koustav-Dey)
 
-<p align='center'>
-  📫 How to Reach Me : <a href='mailto:koustav1998dey@gmail.com'>koustav1998dey@gmail.com</a>
-</p>
 ---
+
 **Talking about Personal Stuffs:**
 <hr>
 - 👨🏽‍💻 I’m currently working on Python <br>
