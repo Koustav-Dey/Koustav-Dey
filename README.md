@@ -1,6 +1,8 @@
-<h1 align='center'> <img src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/code.gif?raw=true" width="25px">
+<h1 align='center'> 
   Hey There, I'm 🅺🅾🆄🆂🆃🅰🆅 😉
 </h1>
+<img src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/code.gif?raw=true" width="25px">
+
 
 <p align='center'>
   📫 How to Reach Me : <a href='mailto:koustav1998dey@gmail.com'>koustav1998dey@gmail.com</a>
