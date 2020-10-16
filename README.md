@@ -22,7 +22,7 @@
 ---
 
 
-### <img src="https://avatars2.githubusercontent.com/u/71118612?s=460&u=2a2599a57595e63a92702f38450dd49fff717d37&v=4" class="avatar avatar-user width-full border bg-white" style="border-radius: 50%;" width="50"> A little more about me...  
+### <img src="https://avatars2.githubusercontent.com/u/71118612?s=460&u=2a2599a57595e63a92702f38450dd49fff717d37&v=4" class="avatar avatar-user width-full border bg-white" style="border-radius: 50%;" width="50"> A little bit About me...  
 
 ```javascript
 const Koustav = {
