@@ -8,6 +8,14 @@
 
 [![HitCount](http://hits.dwyl.com/Koustav-Dey/Koustav-Dey.svg)](http://hits.dwyl.com/Koustav-Dey/Koustav-Dey)
 
+---
+**Talking about Personal Stuffs:**
+<hr>
+- 👨🏽‍💻 I’m currently working on Python <br>
+- 🌱 I’m currently learning ML <br>
+- 💬 Ask me about anything, I am happy to help<br>
+- 👨 Pronouns: he/him<br>
+- ⚡ Fun fact: I have no life<br>
 
 ---
 
