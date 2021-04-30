@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="320" />
 
 
-[![HitCount](http://hits.dwyl.com/Koustav-Dey/Koustav-Dey.svg)](http://hits.dwyl.com/Koustav-Dey/Koustav-Dey)
+
 
 ---
 
