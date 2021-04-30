@@ -28,8 +28,9 @@
 const Koustav = {
   fullname: "Koustav Dey",
   mail: "koustav1998dey@gmail.com",
-  code: [ Python, C, C++, HTML, CSS ],
+  code: [ Python, C, C++, HTML, CSS, Java ],
   web: [  Bootstrap, jQuery(A little)],
+  cloud : "AWS"
   os: [Linux, Windows]
   topic: [ "ML (A Beginner)", "Cyber Security (A Beginner)" ],
 }
