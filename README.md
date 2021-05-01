@@ -27,6 +27,16 @@
 
 
 ---
+### My Skills
+[![Linux](https://img.shields.io/badge/linux-%23239120.svg?&style=flat-square&logo=linux&logoColor=white)]()
+
+[![Python](https://img.shields.io/badge/python-%23306998.svg?&style=flat-square&logo=python&logoColor=white)]()
+
+[![html5](https://img.shields.io/badge/html-%23999999.svg?&style=flat-square&logo=html5&logoColor=#F06529)]()
+[![Javascript](https://img.shields.io/badge/javascript-%23999999.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E&labelColor=#555555)]()
+[![CSS3](https://img.shields.io/badge/css-%23999999.svg?&style=flat-square&logo=css3&logoColor=%232965F1)]()
+
+---
 
 **Talking about Personal Stuffs:**
 <hr>
