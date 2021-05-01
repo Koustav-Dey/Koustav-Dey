@@ -4,6 +4,23 @@
 <p align='center'>
   📫 How to Reach Me : <a href='mailto:koustav1998dey@gmail.com'>koustav1998dey@gmail.com</a>
 </p>
+
+<p align='center'>
+  
+  <a href="https://wa.me/9775665177?text=Hello%20Arnav">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arnav-d-a390a1163/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/arnavdas88">
+    <img src="https://img.shields.io/badge/github-%23222222.svg?&style=for-the-badge&logo=github&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Arnavda34830638/">
+    <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="320" />
 
 
