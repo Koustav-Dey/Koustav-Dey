@@ -50,6 +50,7 @@ const Koustav = {
   cloud : "AWS"
   os: [Linux, Windows]
   topic: [ "ML (A Beginner)", "Cyber Security (A Beginner)" ],
+  techCommunities: [ "Project Community", "SillyCon" ]
 }
 ```
 
@@ -71,3 +72,8 @@ Here are some ideas to get you started:
 ###
 
 I'm an Enthusiastic Developer who loves to contribute to the Opensource Community. I am Always trying to grow and learn somthhing new. I lose track of time when i am playing video games, studing new languages.
+
+---
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Jarvis-AI)](https://github.com/Koustav-Dey/Jarvis-AI)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav-Dey&count_private=true&hide=Jupyter%20Notebook)](https://github.com/Koustav-Dey/)
