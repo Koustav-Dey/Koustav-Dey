@@ -7,6 +7,9 @@
 
 <p align='center'>
   
+  <a href="https://www.youtube.com/channel/UC6vS7_f_3bTfwEz3UMpJnig">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />    
+  </a>&nbsp;&nbsp;
   <a href="https://wa.me/8597796985?text=Hello%20Koustav">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
