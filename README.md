@@ -59,7 +59,7 @@ const Koustav = {
   fullname: "Koustav Dey",
   mail: "koustav1998dey@gmail.com",
   code: [ Python, C, C++, HTML, CSS, Java, Javascript ],
-  web: [  Bootstrap, jQuery(A little)],
+  web: [  Bootstrap, jQuery(A little), Wordpress],
   cloud : "AWS"
   os: [Linux, Windows]
   topic: [ "ML (A Beginner)", "Cyber Security (A Beginner)" ],
