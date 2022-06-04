@@ -3,6 +3,7 @@
 </h1>
 <p align='center'>
   📫 How to Reach Me : <a href='mailto:koustav1998dey@gmail.com'>koustav1998dey@gmail.com</a>
+  [![visitors](https://visitor-badge.glitch.me/badge?page_id=Koustav-Dey.Koustav-Dey)](https://visitor-badge.glitch.me/badge?page_id=Koustav-Dey.Koustav-Dey)
 </p>
 <p align='center'>
   [![visitors](https://visitor-badge.glitch.me/badge?page_id=Koustav-Dey.Koustav-Dey)](https://visitor-badge.glitch.me/badge?page_id=Koustav-Dey.Koustav-Dey)
