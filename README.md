@@ -1,7 +1,7 @@
 <h1> 
   Hey There, I'm 🅺🅾🆄🆂🆃🅰🆅 😉
 </h1>
-<p align='center'>
+<p >
   📫 How to Reach Me : <a href='mailto:koustav1998dey@gmail.com'>koustav1998dey@gmail.com</a>
 </p>
 
