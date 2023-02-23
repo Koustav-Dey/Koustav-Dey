@@ -97,4 +97,3 @@ I'm an Enthusiastic Developer who loves to contribute to the Opensource Communit
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Movie_recommendation_System)](https://github.com/Koustav-Dey/Movie_recommendation_System)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Advanced-Notepad)](https://github.com/Koustav-Dey/Advanced-Notepad)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav-Dey&count_private=true&hide=Jupyter%20Notebook)](https://github.com/Koustav-Dey/)
