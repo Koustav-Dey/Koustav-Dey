@@ -32,6 +32,8 @@
   
 </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="320" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav-Dey&count_private=true&hide=Jupyter%20Notebook)](https://github.com/Koustav-Dey/)
+
 
 
 
