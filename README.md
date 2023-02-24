@@ -31,7 +31,7 @@
   </a>&nbsp;&nbsp;
   
 </p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="320" />
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0-pIvIbFZckOex03Ms4HdG&ust=1677348496608000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIjYgaHgrv0CFQAAAAAdAAAAABAJ" width="460" height="320" />
 
 
 
