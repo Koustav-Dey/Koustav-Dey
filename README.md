@@ -31,7 +31,7 @@
   </a>&nbsp;&nbsp;
   
 </p>
-<img align="right" alt="GIF" src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/new_code.gif" width="460" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/new_code.gif" width="460" height="320">
 
 
 
