@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend develoI am a passionate programmer, I am Working in the Software development and Machine Learning area. For the last 3 years.per from India</h3>
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=Koustav-Dey.Koustav-Dey)](https://visitor-badge.glitch.me/badge?page_id=Koustav-Dey.Koustav-Dey)
+[![wakatime](https://wakatime.com/badge/user/380570cf-30bd-4b71-8ac3-ea422ccb6dff.svg)](https://wakatime.com/@380570cf-30bd-4b71-8ac3-ea422ccb6dff)
 
 
 
