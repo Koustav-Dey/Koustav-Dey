@@ -172,7 +172,7 @@ I'm an Enthusiastic Developer who loves to contribute to the Opensource Communit
 [![trophy](https://github-profile-trophy.vercel.app/?username=Koustav-Dey&theme=onestar&column=3&rank=SECRET,S,SS,SSS,A,AA,AAA,B&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Metrics](https://metrics.lecoq.io/Koustav-Dey?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FKolkata)
+![Metrics](https://metrics.lecoq.io/Koustav-Dey?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
 
   
 
