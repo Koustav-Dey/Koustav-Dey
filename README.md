@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 🅺🅾🆄🆂🆃🅰🆅 😉</h1>
 <h3 align="center">A passionate frontend develoI am a passionate programmer, I am Working in the Software development and Machine Learning area. For the last 3 years.per from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=koustav-dey&label=Profile%20views&color=0e75b6&style=flat" alt="koustav-dey" /> </p>
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=Koustav-Dey.Koustav-Dey)](https://visitor-badge.glitch.me/badge?page_id=Koustav-Dey.Koustav-Dey)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koustav-dey" alt="koustav-dey" /></a> </p>
 
