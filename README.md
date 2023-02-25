@@ -3,7 +3,7 @@
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=Koustav-Dey.Koustav-Dey)](https://visitor-badge.glitch.me/badge?page_id=Koustav-Dey.Koustav-Dey)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koustav-dey" alt="koustav-dey" /></a> </p>
+
 
 - 🔭 I’m currently working on **Lang Pro**
 
@@ -96,3 +96,4 @@ const Koustav = {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koustav-dey&show_icons=true&locale=en" alt="koustav-dey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koustav-dey&" alt="koustav-dey" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koustav-dey" alt="koustav-dey" /></a> </p>
