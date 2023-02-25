@@ -167,9 +167,9 @@ I'm an Enthusiastic Developer who loves to contribute to the Opensource Communit
 
 ![Metrics](https://metrics.lecoq.io/Koustav-Dey?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koustav-dey&show_icons=true&locale=en&layout=compact" alt="koustav-dey" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koustav-dey&theme=nord&show_icons=true&locale=en&layout=compact" alt="koustav-dey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koustav-dey&show_icons=true&locale=en" alt="koustav-dey" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koustav-dey&theme=nord&show_icons=true&locale=en" alt="koustav-dey" /></p>
 
 ### Interesting Repo
 
