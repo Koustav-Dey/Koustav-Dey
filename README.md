@@ -166,19 +166,3 @@ I'm an Enthusiastic Developer who loves to contribute to the Opensource Communit
 
 
 ![Metrics](https://metrics.lecoq.io/Koustav-Dey?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koustav-dey&theme=nord&show_icons=true&locale=en&layout=compact" alt="koustav-dey" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koustav-dey&theme=nord&show_icons=true&locale=en" alt="koustav-dey" /></p>
-
-### Interesting Repo 
-
-<!--   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Movie_recommendation_System)](https://github.com/Koustav-Dey/Movie_recommendation_System)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Advanced-Notepad)](https://github.com/Koustav-Dey/Advanced-Notepad)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Flappy-Bird)](https://github.com/Koustav-Dey/Flappy-Bird)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Hand-Tracking-)](https://github.com/Koustav-Dey/Hand-Tracking-) -->
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Movie_recommendation_System)](https://github.com/Koustav-Dey/Movie_recommendation_System)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Advanced-Notepad)](https://github.com/Koustav-Dey/Advanced-Notepad)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Python-Quick-Hacks)](https://github.com/Koustav-Dey/Python-Quick-Hacks)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Keylogger)](https://github.com/Koustav-Dey/Keylogger)
