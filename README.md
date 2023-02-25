@@ -78,6 +78,27 @@ const Koustav = {
 ```
 
 <h3 align="left">Connect with me:</h3>
+
+
+<p align='center'>
+  
+  <a href="https://www.youtube.com/channel/UC6vS7_f_3bTfwEz3UMpJnig">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />    
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/8597796985?text=Hello%20Koustav">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/koustav-dey-076a75171/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Koustav-Dey">
+    <img src="https://img.shields.io/badge/github-%23222222.svg?&style=for-the-badge&logo=github&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Koustav56847139/">
+    <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 <p align="left">
 <a href="https://twitter.com/koustav56847139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koustav56847139" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/koustav-dey-076a75171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koustav-dey-076a75171" height="30" width="40" /></a>
