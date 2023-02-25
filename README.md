@@ -157,12 +157,10 @@ I'm an Enthusiastic Developer who loves to contribute to the Opensource Communit
 
 <p></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koustav-dey&show_icons=true&locale=en&layout=compact" alt="koustav-dey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koustav-dey&show_icons=true&locale=en" alt="koustav-dey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koustav-dey&" alt="koustav-dey" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koustav-dey" alt="koustav-dey" /></a> </p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koustav-dey&" alt="koustav-dey" /></p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koustav-dey" alt="koustav-dey" /></a> </p> -->
 
 
  <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' height='32px'> </h2>
@@ -174,7 +172,8 @@ I'm an Enthusiastic Developer who loves to contribute to the Opensource Communit
 
 ![Metrics](https://metrics.lecoq.io/Koustav-Dey?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
 
-  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koustav-dey&show_icons=true&locale=en&layout=compact" alt="koustav-dey" /></p>
 
-  [![Here's my stats](https://github-readme-stats.vercel.app/api?username=Koustav-Dey&show_icons=true&line_height=33&hide=true&count_private=true&theme=nord)](https://github.com/Koustav-Dey)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav-Dey&count_private=true&hide=Jupyter%20Notebook&theme=nord)](https://github.com/Koustav-Dey/) 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koustav-dey&show_icons=true&locale=en" alt="koustav-dey" /></p>
+
+
