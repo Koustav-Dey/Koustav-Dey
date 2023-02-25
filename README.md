@@ -143,6 +143,18 @@ const Koustav = {
 
 
 <h3>Support: <a href="https://www.buymeacoffee.com/koustavdey"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="koustavdey" /></a> </h3>
+
+###
+
+I'm an Enthusiastic Developer who loves to contribute to the Opensource Community. I am Always trying to grow and learn somthhing new. I lose track of time when i am playing video games, studing new languages.
+
+---
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Movie_recommendation_System)](https://github.com/Koustav-Dey/Movie_recommendation_System)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Advanced-Notepad)](https://github.com/Koustav-Dey/Advanced-Notepad)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Python-Quick-Hacks)](https://github.com/Koustav-Dey/Python-Quick-Hacks)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Keylogger)](https://github.com/Koustav-Dey/Keylogger)
+
 <p></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koustav-dey&show_icons=true&locale=en&layout=compact" alt="koustav-dey" /></p>
