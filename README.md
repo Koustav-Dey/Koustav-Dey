@@ -19,9 +19,9 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/koustav-dey-076a75171/](https://www.linkedin.com/in/koustav-dey-076a75171/)
 
 - ⚡ Fun fact **I have no Life**
-<div align="right">
+
 <img width="320" height = "200" src="https://cdn.pixabay.com/photo/2017/10/10/15/31/spaceship-2837606_960_720.png" alt="cover" aligh="right" />
-</div>
+
 
 
 ---
