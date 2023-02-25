@@ -50,7 +50,7 @@
 
 
 ---
-### My Skills
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32px"> </h2>
 [![Linux](https://img.shields.io/badge/linux-%23239120.svg?&style=flat-square&logo=linux&logoColor=white)]()
 
 [![Python](https://img.shields.io/badge/python-%23306998.svg?&style=flat-square&logo=python&logoColor=white)]()
