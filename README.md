@@ -51,13 +51,21 @@
 
 ---
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32px"> </h2>
+
 [![Linux](https://img.shields.io/badge/linux-%23239120.svg?&style=flat-square&logo=linux&logoColor=white)]()
 
-[![Python](https://img.shields.io/badge/python-%23306998.svg?&style=flat-square&logo=python&logoColor=white)]()
+
 
 [![html5](https://img.shields.io/badge/html-%23999999.svg?&style=flat-square&logo=html5&logoColor=#F06529)]()
 [![Javascript](https://img.shields.io/badge/javascript-%23999999.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E&labelColor=#555555)]()
 [![CSS3](https://img.shields.io/badge/css-%23999999.svg?&style=flat-square&logo=css3&logoColor=%232965F1)]()
+
+
+[![Python](https://img.shields.io/badge/python-%23306998.svg?&style=flat-square&logo=python&logoColor=white)]()
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-%23239120.svg?&style=flat-square&logo=tensorflow&logoColor=white)]()
+[![Django](https://img.shields.io/badge/django%20-%23239120.svg?&style=flat-square&logo=django&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/aws-%23000000.svg?&style=flat-square&logo=amazon&logoColor=white&labelColor=black)]()
+
 
 ---
 
