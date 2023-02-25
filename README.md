@@ -19,6 +19,64 @@
 
 - ⚡ Fun fact **I have no Life**
 
+
+---
+
+
+
+<p align='center'>
+  
+  <a href="https://www.youtube.com/channel/UC6vS7_f_3bTfwEz3UMpJnig">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />    
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/8597796985?text=Hello%20Koustav">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/koustav-dey-076a75171/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Koustav-Dey">
+    <img src="https://img.shields.io/badge/github-%23222222.svg?&style=for-the-badge&logo=github&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Koustav56847139/">
+    <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+<img align="right" alt="GIF" src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/new_code.gif" width="460" height="320">
+
+
+
+
+
+---
+### My Skills
+[![Linux](https://img.shields.io/badge/linux-%23239120.svg?&style=flat-square&logo=linux&logoColor=white)]()
+
+[![Python](https://img.shields.io/badge/python-%23306998.svg?&style=flat-square&logo=python&logoColor=white)]()
+
+[![html5](https://img.shields.io/badge/html-%23999999.svg?&style=flat-square&logo=html5&logoColor=#F06529)]()
+[![Javascript](https://img.shields.io/badge/javascript-%23999999.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E&labelColor=#555555)]()
+[![CSS3](https://img.shields.io/badge/css-%23999999.svg?&style=flat-square&logo=css3&logoColor=%232965F1)]()
+
+---
+
+
+### <img src="https://avatars2.githubusercontent.com/u/71118612?s=460&u=2a2599a57595e63a92702f38450dd49fff717d37&v=4" class="avatar avatar-user width-full border bg-white" style="border-radius: 50%;" width="50"> A little bit About me...  
+
+```javascript
+const Koustav = {
+  fullname: "Koustav Dey",
+  mail: "koustav1998dey@gmail.com",
+  code: [ Python, C, C++, HTML, CSS, Java, Javascript ],
+  web: [  Bootstrap, jQuery(A little), Wordpress],
+  cloud : "AWS"
+  os: [Linux, Windows]
+  topic: [ "ML (A Beginner)", "Cyber Security (A Beginner)" ],
+  techCommunities: [ "Project Community", "SillyCon" ]
+}
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/koustav56847139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koustav56847139" height="30" width="40" /></a>
