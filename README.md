@@ -173,7 +173,7 @@ I'm an Enthusiastic Developer who loves to contribute to the Opensource Communit
 
 ### Interesting Repo
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SciSharp&repo=Movie_recommendation_System&theme=nord)](https://github.com/Koustav-Dey/Movie_recommendation_System)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Advanced-Notepad&theme=nord)](https://github.com/Koustav-Dey/Advanced-Notepad)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Flappy-Bird&theme=nord)](https://github.com/Koustav-Dey/Flappy-Bird)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Hand-Tracking-&theme=nord)](https://github.com/Koustav-Dey/Hand-Tracking-)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SciSharp&repo=Movie_recommendation_System)](https://github.com/Koustav-Dey/Movie_recommendation_System)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Advanced-Notepad)](https://github.com/Koustav-Dey/Advanced-Notepad)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Flappy-Bird)](https://github.com/Koustav-Dey/Flappy-Bird)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Hand-Tracking-)](https://github.com/Koustav-Dey/Hand-Tracking-)
