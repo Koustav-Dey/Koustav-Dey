@@ -169,7 +169,7 @@ I'm an Enthusiastic Developer who loves to contribute to the Opensource Communit
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav-Dey&hide_border=true&layout=compact" align="left" style="width: 100%" />  
 
 <div align="right">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmad-skull&psig=AOvVaw1_yHVsNsVdrku5nxFviR0F&ust=1677397192252000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLiUnNSVsP0CFQAAAAAdAAAAABAJ" align="right" height="200" width="320" />
+<img src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966.gif" align="right" height="200" width="320" />
 </div>  
   
 
