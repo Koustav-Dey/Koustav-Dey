@@ -150,11 +150,6 @@ I'm an Enthusiastic Developer who loves to contribute to the Opensource Communit
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Movie_recommendation_System)](https://github.com/Koustav-Dey/Movie_recommendation_System)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Advanced-Notepad)](https://github.com/Koustav-Dey/Advanced-Notepad)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Python-Quick-Hacks)](https://github.com/Koustav-Dey/Python-Quick-Hacks)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Keylogger)](https://github.com/Koustav-Dey/Keylogger)
-
 <p></p>
 
 
@@ -175,5 +170,13 @@ I'm an Enthusiastic Developer who loves to contribute to the Opensource Communit
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koustav-dey&show_icons=true&locale=en&layout=compact" alt="koustav-dey" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koustav-dey&show_icons=true&locale=en" alt="koustav-dey" /></p>
+
+### Interesting Repo
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Movie_recommendation_System)](https://github.com/Koustav-Dey/Movie_recommendation_System)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Advanced-Notepad)](https://github.com/Koustav-Dey/Advanced-Notepad)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Python-Quick-Hacks)](https://github.com/Koustav-Dey/Python-Quick-Hacks)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Keylogger)](https://github.com/Koustav-Dey/Keylogger)
+
 
 
