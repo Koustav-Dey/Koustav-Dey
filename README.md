@@ -163,3 +163,16 @@ I'm an Enthusiastic Developer who loves to contribute to the Opensource Communit
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koustav-dey&" alt="koustav-dey" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koustav-dey" alt="koustav-dey" /></a> </p>
+
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav-Dey&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+
+<div align="right">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmad-skull&psig=AOvVaw1_yHVsNsVdrku5nxFviR0F&ust=1677397192252000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLiUnNSVsP0CFQAAAAAdAAAAABAJ" align="right" height="200" width="320" />
+</div>  
+  
+
+<img src="https://github-readme-stats.vercel.app/api?username=Koustav-Dey&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<br/>  
