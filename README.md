@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm 🅺🅾🆄🆂🆃🅰🆅 😉</h1>
+<!-- <h1 align="center">Hi 👋, I'm 🅺🅾🆄🆂🆃🅰🆅 😉</h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px"></img> </h1>
+ -->
 
+<h1 align="center"> Hi 👋, I'm 🅺🅾🆄🆂🆃🅰🆅 😉! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px"></img> </h1>
 
 What’s up, I’m Koustav. I’m a researcher living in Kolkata. 
 I am a <u>Machine Learning Enthusiastic</u> and a <u>Python Developer</u>. 
