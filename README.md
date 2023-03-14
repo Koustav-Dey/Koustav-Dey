@@ -27,7 +27,7 @@
 
 ---
 
-<h3> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="70px"> </h3>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="60px"> </h2>
 
 <p align='center'>
   
