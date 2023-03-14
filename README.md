@@ -58,7 +58,6 @@ I am a fan of `Linux` and `Open Source Softwares`.Working on Machine Learning fr
 
 <img align="right" alt="GIF" src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/code.gif" width="400" height="240">
 
-<hr>
 
 
 
@@ -73,7 +72,11 @@ I am a fan of `Linux` and `Open Source Softwares`.Working on Machine Learning fr
 
 
 
+<br/>  
 
+
+
+---
 <table><tr><td valign="top" width="33%">
 
 
