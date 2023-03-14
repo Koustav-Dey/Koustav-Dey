@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm 🅺🅾🆄🆂🆃🅰🆅 😉</h1>
-<h3 align="center">A passionate frontend develoI am a passionate programmer, I am Working in the Software development and Machine Learning area. For the last 3 years.per from India</h3>
+
+
+<h3 align="center">What’s up, I’m Koustav. I’m a researcher living in Kolkata. 
+I am a <u>Machine Learning Enthusiastic</u> and a <u>Python Developer</u>. 
+I am a fan of `Linux` and `Open Source Softwares`.Working on Machine Learning from the last 3 years</h3>
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=Koustav-Dey.Koustav-Dey)](https://visitor-badge.glitch.me/badge?page_id=Koustav-Dey.Koustav-Dey)
 [![wakatime](https://wakatime.com/badge/user/380570cf-30bd-4b71-8ac3-ea422ccb6dff.svg)](https://wakatime.com/@380570cf-30bd-4b71-8ac3-ea422ccb6dff)
