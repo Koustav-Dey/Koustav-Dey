@@ -55,7 +55,7 @@
 
 
 ---
-<h2> Skills <img src = "https://github.com/Koustav-Dey/Koustav-Dey/blob/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966.gif" height="32px"> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32px"> </h2>
 
 
 <table><tr><td valign="top" width="33%">
