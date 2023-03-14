@@ -50,6 +50,7 @@
 </p>
 <img align="right" alt="GIF" src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966.gif" width="460" height="320">
 <!-- <img align="right" alt="GIF" src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/new_code.gif" width="460" height="320"> -->
+<img width="55%" align="left" alt="Git Art Work" src="gitartwork.svg" />
 
 
 
