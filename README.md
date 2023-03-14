@@ -27,9 +27,9 @@ I am a fan of `Linux` and `Open Source Softwares`.Working on Machine Learning fr
 
 - ⚡ Fun fact **I have no Life**
 
-<div align="right">
+<!-- <div align="right">
 <img width="320" height = "200" src="https://pixabay.com/images/id-2031346/" alt="cover" aligh="right" />
-</div>
+</div> -->
 
 
 ---
