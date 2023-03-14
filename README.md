@@ -48,7 +48,7 @@
   </a>&nbsp;&nbsp;
   
 </p>
-<img width="55%" align="left" alt="Git Art Work" src="gitartwork.svg" />
+
 <img align="right" alt="GIF" src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/code.gif" width="460" height="320">
 <!-- <img align="right" alt="GIF" src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/new_code.gif" width="460" height="320"> -->
 <!-- <img width="55%" align="left" alt="Git Art Work" src="gitartwork.svg" /> -->
@@ -58,6 +58,7 @@
 
 
 ---
+<img width="55%" align="left" alt="Git Art Work" src="gitartwork.svg" />
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32px"> </h2>
 
 
