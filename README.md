@@ -67,7 +67,7 @@ I am a fan of `Linux` and `Open Source Softwares`.Working on Machine Learning fr
 <hr>
 
 <!-- <table><tr><td valign="top" width="55%" > -->
-<table><tr><td valign="bottom" width="60px" height = "50px" >
+<table><tr><td valign="top" width="300" height = "140" >
 
 
 
