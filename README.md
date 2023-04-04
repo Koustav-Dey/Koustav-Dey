@@ -186,7 +186,7 @@ I'm an Enthusiastic Developer who loves to contribute to the Opensource Communit
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koustav-dey&theme=nord&show_icons=true&locale=en" alt="koustav-dey" /></p>
  
  2021 wrapped: <br><br>
-<a href="https://sohamds1.wrapped.run"><img src="https://github.com/sohamds1/sohamds1/blob/main/wrapped.png" width="900" alt="Soham's 2021 wrapped"/></a>
+<a href=""><img src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/wrapped_Koustav-Dey.png" width="900" alt="Soham's 2021 wrapped"/></a>
 <br><br>
 
 ### Interesting Repo 
