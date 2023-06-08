@@ -13,7 +13,7 @@ I am a fan of `Linux` and `Open Source Softwares`.Working on Machine Learning fr
 
 
 
-- 🔭 I’m currently working on **Deep Learning**
+- 🔭 I’m currently working on **Interpreter Design**
 
 - 🌱 I’m currently learning **Deep Learning, Rest API**
 
