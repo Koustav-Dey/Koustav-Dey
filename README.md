@@ -28,7 +28,7 @@ I am a fan of `Linux` and `Open Source Softwares`.Working on Machine Learning fr
 - ⚡ Fun fact **I have no Life**
 
 <!-- <div align="right">
-<img width="320" height = "200" src="https://pixabay.com/images/id-2031346/" alt="cover" aligh="right" />
+<img width="320" height = "200" src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/img/design.png" alt="cover" aligh="right" />
 </div> -->
 
 
@@ -56,7 +56,7 @@ I am a fan of `Linux` and `Open Source Softwares`.Working on Machine Learning fr
   
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/code.gif" width="400" height="240">
+<img align="right" alt="GIF" src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/img/code.gif" width="400" height="240">
 
  
 
@@ -135,7 +135,7 @@ I am a fan of `Linux` and `Open Source Softwares`.Working on Machine Learning fr
 ---
 
 
-### <img src="https://avatars2.githubusercontent.com/u/71118612?s=460&u=2a2599a57595e63a92702f38450dd49fff717d37&v=4" class="avatar avatar-user width-full border bg-white" style="border-radius: 50%;" width="50"> A little bit About me...  
+<img src="https://avatars2.githubusercontent.com/u/71118612?s=460&u=2a2599a57595e63a92702f38450dd49fff717d37&v=4" class="avatar avatar-user width-full border bg-white" style="border-radius: 50%;" width="50"> A little bit About me...  
 
 ```javascript
 const Koustav = {
