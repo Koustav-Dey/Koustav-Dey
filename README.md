@@ -62,7 +62,7 @@ I am a fan of `Linux` and `Open Source Softwares`.Working on Machine Learning fr
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32px"> </h2>
-<h2><img width="50%" align="left" alt="Git Art Work" src="gitartwork.svg" /></h2>
+<!-- <h2><img width="50%" align="left" alt="Git Art Work" src="gitartwork.svg" /></h2> -->
 
 <hr>
 
@@ -186,7 +186,7 @@ I'm an Enthusiastic Developer who loves to contribute to the Opensource Communit
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koustav-dey&theme=nord&show_icons=true&locale=en" alt="koustav-dey" /></p>
  
  2021 wrapped: <br><br>
-<a href=""><img src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/wrapped_Koustav-Dey.png" width="900" alt="Soham's 2021 wrapped"/></a>
+<a href=""><img src="https://github.com/Koustav-Dey/Koustav-Dey/blob/cd19ee76887b681f5435bc8d73f5ff29f31758f7/img/wrapped.png" width="900" alt="Soham's 2021 wrapped"/></a>
 <br><br>
 
 ### Interesting Repo 
