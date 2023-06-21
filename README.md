@@ -56,7 +56,7 @@ I am a fan of `Linux` and `Open Source Softwares`.Working on Machine Learning fr
   
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/Koustav-Dey/Koustav-Dey/blob/main/img/code.gif" width="400" height="240">
+<img align="right" alt="GIF" src="https://github.com/Koustav-Dey/Koustav-Dey/blob/449889cc062c7b1bda7d6068cf2d62d653a4ecbe/img/code.gif" width="400" height="240">
 
  
 
