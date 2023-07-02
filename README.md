@@ -194,7 +194,7 @@ I'm an Enthusiastic Developer who loves to contribute to the Opensource Communit
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Mini_Lang)](https://github.com/Koustav-Dey/Mini_Lang)
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Movie_recommendation_System)](https://github.com/Koustav-Dey/Movie_recommendation_System)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Youtube_Video_Downloader)](https://github.com/Koustav-Dey/Youtube_Video_Downloader)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Port-Scanner_Socket)](https://github.com/Koustav-Dey/Port-Scanner_Socket)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Port_Scanner_Socket)](https://github.com/Koustav-Dey/Port_Scanner_Socket)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Face_Emotion_Detection_CNN)](https://github.com/Koustav-Dey/Face_Emotion_Detection_CNN)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koustav-Dey&repo=Hand-Tracking-)](https://github.com/Koustav-Dey/Hand-Tracking-)
   
