@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px"></img>, I'm 🅺🅾🆄🆂🆃🅰🆅 😉 </h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&multiline=true&width=435&lines=Researcher++%7C+Developer+%7C+ML+Motivated++%7C+;Innovation+Enthusiast+%7C+Network+Security+%7C+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=29A41A&multiline=true&width=435&lines=Researcher++%7C+Developer+%7C+ML+Motivated++;Innovation+Enthusiast+%7C+Network+Security+%7C+AI" alt="Typing SVG" /></a>
 </p>
 
 What’s up, I’m Koustav. I’m a researcher living in Kolkata. 
