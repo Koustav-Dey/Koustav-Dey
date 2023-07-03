@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm 🅺🅾🆄🆂🆃🅰🆅 😉</h1>
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px"></img> </h1>
  -->
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hii+I+am+Koustav+Dey;Researcher++%7C+Developer+%7C+ML+Motivated++%7C+Innovation+Enthusiast+%7C)](https://git.io/typing-svg)
 <h1 align="center"> Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px"></img>, I'm 🅺🅾🆄🆂🆃🅰🆅 😉 </h1>
 
 What’s up, I’m Koustav. I’m a researcher living in Kolkata. 
