@@ -114,7 +114,7 @@ I am a fan of `Linux` and `Open Source Softwares`.Working on Machine Learning fr
 
 ### DevOps  
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="30" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="30" /></a>  +
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" /></a>  
@@ -142,14 +142,17 @@ I am a fan of `Linux` and `Open Source Softwares`.Working on Machine Learning fr
 
 ```javascript
 const Koustav = {
-  fullname: "Koustav Dey",
+  fullname: "Arnav Das",
   mail: "koustav1998dey@gmail.com",
-  code: [ Python, C, C++, HTML, CSS, Java, Javascript ],
-  web: [  Bootstrap, jQuery(A little), Wordpress],
-  cloud : "AWS"
-  os: [Linux, Windows]
-  topic: [ "ML (A Beginner)", "Cyber Security (A Beginner)" ],
-  techCommunities: [ "Project Community", "SillyCon" ]
+  languages: [ Python, C, C++, JavaScript, HTML, CSS ],
+  neuralnetwork: [ Tensorflow, Keras],
+  web: [ Flask, Bootstrap, jQuery, REST API, Wordpress ],
+  os: [ Debian, macOS, Redhat ],
+  cloud: [ Docker, AWS, DigitalOcean, Heroku ],
+  topic: [ "Machine Learning", "Cyber Security" ],
+  techCommunities: [ 
+          "SillyCon", 
+          "Project Community" ]
 }
 ```
 
