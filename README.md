@@ -142,7 +142,7 @@ I am a fan of `Linux` and `Open Source Softwares`.Working on Machine Learning fr
 
 ```javascript
 const Koustav = {
-  fullname: "Arnav Das",
+  fullname: "Koustav Dey",
   mail: "koustav1998dey@gmail.com",
   languages: [ Python, C, C++, JavaScript, HTML, CSS ],
   neuralnetwork: [ Tensorflow, Keras],
